@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as bs
 
 
 COINS = [
-    'Bitcoin', 'Ethereum', 'XDN',
+    'Bitcoin', 'Ethereum', 'DigitalNote',
     'USDT',
     'EOS', 'Bitcoin-cash', 'Litecoin',
     'Stellar', 'DASH',
